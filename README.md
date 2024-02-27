@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name is Mario and I'm a Software Developer, from Mostar, BiH</h2>
 
+🚀 Web Developer | React.js & Next.js Enthusiast <br>
+💻 Proficient in Frontend: React, Next.js <br>
+🛠️ Explored Backend: Node.js, Go <br>
+📚 Currently diving into Flutter for mobile development <br>
+🌐 Passionate about crafting seamless and responsive web experiences<br>
+
+Let's code and create something amazing together! 🚀
+
 ###
 
 <div align="center">
