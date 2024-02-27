@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mario and I'm a Software Developer, from Mostar, BiH</h2>
 
 ###
 
@@ -69,8 +69,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/mariorozic/mariorozic/output/snake.svg" alt="Snake animation" />
 
 ![Snake animation](https://raw.githubusercontent.com/mariorozic/mariorozic/output/github-contribution-grid-snake-dark.svg)
 
